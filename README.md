@@ -16,7 +16,7 @@ I leverage data analytics, programmatic data cleaning, and relational databases 
 * **Description:** Analyzed HR datasets containing over 17,000 employee records to identify key trends in demographics, training, KPIs, and corporate award frequencies. Used programmatic data imputation (mode-filling and median-adjusting) to clean raw data, dropped structural duplicates, and uncovered critical drop-off points in length of service metrics to help HR implement proactive retention interventions.
 * **Tools Used:** Python, Pandas, NumPy, Seaborn, Matplotlib
 * **Key Insights Uncovered:** Isolated specific departments where high training scores did not correlate with improved year-over-year performance ratings, signaling a clear need for training curriculum optimization.
-* **[View Project Files](.Predictive_HR_Analytics_and_Workforce_Retention.ipynb)** 
+* **[View Project Files](Predictive_HR_Analytics_and_Workforce_Retention.ipynb)** 
 
 ### 2. Customer Purchase & Shipping Cost Optimization
 * **Description:** Merged customer profiles and purchase history datasets to conduct advanced business intelligence analysis. Programmatically engineered a "Shipping Days" feature from datetime values, grouped logistics data to calculate average shipping costs based on delivery speed, and performed statistical testing on target audiences to assess revenue impacts.
