@@ -12,21 +12,21 @@ I leverage data analytics, programmatic data cleaning, and relational databases 
 
 ## 📂 Featured Projects
 
-### 📊 1. Predictive HR Analytics & Workforce Optimization
+### 1. Predictive HR Analytics & Workforce Optimization
 * **Description:** Analyzed HR datasets containing over 17,000 employee records to identify key trends in demographics, training, KPIs, and corporate award frequencies. Used programmatic data imputation (mode-filling and median-adjusting) to clean raw data, dropped structural duplicates, and uncovered critical drop-off points in length of service metrics to help HR implement proactive retention interventions.
 * **Tools Used:** Python, Pandas, NumPy, Seaborn, Matplotlib
 * **Key Insights Uncovered:** Isolated specific departments where high training scores did not correlate with improved year-over-year performance ratings, signaling a clear need for training curriculum optimization.
-* **[View Project Files](./HR-Analytics-Project)** 
+* **[View Project Files](.Predictive_HR_Analytics_and_Workforce_Retention.ipynb)** 
 
-### 🛍️ 2. Customer Purchase & Shipping Cost Optimization
+### 2. Customer Purchase & Shipping Cost Optimization
 * **Description:** Merged customer profiles and purchase history datasets to conduct advanced business intelligence analysis. Programmatically engineered a "Shipping Days" feature from datetime values, grouped logistics data to calculate average shipping costs based on delivery speed, and performed statistical testing on target audiences to assess revenue impacts.
-* **Tools Used:** Python, Pandas, SciPy (scipy.stats)
+* **Tools Used:** Python, Pandas, SciPy (SciPy.Stats)
 * **Statistical Methods Used:** 
   * *Independent T-Test:* Evaluated whether there was a statistically significant difference in average income across customer genders.
   * *Chi-Square Contingency Test:* Tested for significant dependencies/associations between customer gender and purchase product categories.
-* **[View Project Files](./Customer-Purchase-Analysis)**
+* **[View Project Files]()**
 
-### 🏥 3. Healthcare Database Architecture & Performance Analysis
+### 3. Healthcare Database Architecture & Performance Analysis
 * **Description:** Engineered a relational database schema from scratch using structured tables for Patients, Hospitals, Admissions, and Treatments. Populated the tables with mock medical records to run advanced query analyses regarding hospital utilization, treatment costs, and lengths of stay.
 * **Tools Used:** SQL (MySQL)
 * **Advanced SQL Techniques Implemented:** 
