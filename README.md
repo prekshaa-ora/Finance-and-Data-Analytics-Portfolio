@@ -1,16 +1,16 @@
 # Finance & Data Analytics Portfolio
 Welcome to my portfolio! This repository showcases a collection of data analytics, predictive modeling, and database management projects developed during my academic coursework.
 
-## 🎯 Objective
+## Objective
 I leverage data analytics, programmatic data cleaning, and relational databases to uncover business insights, optimize organizational performance, and drive data-backed decision-making.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Data Engineering & Analysis:** Python (Pandas, NumPy), Advanced Excel
 * **Data Visualization:** Seaborn, Matplotlib
 * **Database Management:** SQL (MySQL / SQL Server)
 * **Statistical Methods:** Exploratory Data Analysis (EDA), Statistical Testing (T-Tests, Chi-Square Co-dependency)
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 1. Predictive HR Analytics & Workforce Optimization
 * **Description:** Analyzed HR datasets containing over 17,000 employee records to identify key trends in demographics, training, KPIs, and corporate award frequencies. Used programmatic data imputation (mode-filling and median-adjusting) to clean raw data, dropped structural duplicates, and uncovered critical drop-off points in length of service metrics to help HR implement proactive retention interventions.
@@ -24,7 +24,7 @@ I leverage data analytics, programmatic data cleaning, and relational databases 
 * **Statistical Methods Used:** 
   * *Independent T-Test:* Evaluated whether there was a statistically significant difference in average income across customer genders.
   * *Chi-Square Contingency Test:* Tested for significant dependencies/associations between customer gender and purchase product categories.
-* **[View Project Files]()**
+* **[View Project Files](E-Commerce_Consumer_Behavior_and_RFM_Segmentation.ipynb)**
 
 ### 3. Healthcare Database Architecture & Performance Analysis
 * **Description:** Engineered a relational database schema from scratch using structured tables for Patients, Hospitals, Admissions, and Treatments. Populated the tables with mock medical records to run advanced query analyses regarding hospital utilization, treatment costs, and lengths of stay.
