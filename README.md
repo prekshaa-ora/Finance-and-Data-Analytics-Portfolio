@@ -33,6 +33,6 @@ I leverage data analytics, programmatic data cleaning, and relational databases 
   * Multi-table Relational Joins (`JOIN / ON`) and data aggregations (`GROUP BY / HAVING`).
   * Advanced SQL window functions (`RANK() OVER`) to rank hospital revenue and treatment frequencies.
   * Structural database abstraction by creating reusable Database Views (`CREATE VIEW`) for executive reporting.
-* **[View Project Files](./Healthcare-DB-SQL)**
+* **[View Project Files](Healthcare_Operations_Data_Architecture_and_Revenue_Analysis.sql.sql)**
 
 
